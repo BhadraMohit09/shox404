@@ -10,9 +10,9 @@ I'm an experienced web developer with a strong focus on frontend development and
     
 ### 🛠️ Technologies & Skills, Front-End
   
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,figma,vercel" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,figma,vercel,webpack,babel" alt="Tech Stack Icons" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,redux,jquery,tailwind,bootstrap,vscode,materialui" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=git,github,redux,jquery,tailwind,bootstrap,vscode,materialui,heroku" alt="Tech Stack Icons" />
 
 ### 🌟 Ready for New Challenges
 <strong>
@@ -24,4 +24,3 @@ I thrive in fast-paced environments and am eager to take on new challenges assoc
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 </div>
-
